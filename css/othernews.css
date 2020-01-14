@@ -81,7 +81,7 @@
 }
 .gridwrap {
   display: grid;
-  grid-template-columns: 5% 1fr 1fr 5%;
+  grid-template-columns: 5% 1fr 1fr 1fr 5%;
   grid-template-rows: auto;
   min-height: 90vh;
   display: grid;
@@ -137,7 +137,7 @@
   align-self: center;
   justify-self: center;
   z-index: 1;
-  grid-column: 3;
+  grid-column: 4;
   grid-row: auto;
   box-shadow: 0px 6px 12px 0px;
 }
