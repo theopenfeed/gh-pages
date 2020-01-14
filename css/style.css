@@ -16,6 +16,10 @@
   background-image: url(../img/background.jpg);
   background-repeat: repeaty;
 }
+.logo {
+  max-width: 10vh;
+  max-height: 5vh;
+}
 
 .navigation {
   min-height: 10vh;
