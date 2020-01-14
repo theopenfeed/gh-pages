@@ -45,14 +45,7 @@
   background-color: #111;
 }
 
-.topnav input[type="text"] {
-  float: right;
-  padding: 6px;
-  border: none;
-  margin-top: 8px;
-  margin-right: 16px;
-  font-size: 17px;
-}
+
 
 @media screen and (max-width: 600px) {
   .topnav a,
@@ -64,9 +57,7 @@
     margin: 0;
     padding: 14px;
   }
-  .topnav input[type="text"] {
-    border: 1px solid #ccc;
-  }
+ 
 }
 .copyright {
   color: white;
